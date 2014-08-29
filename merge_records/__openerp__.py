@@ -22,16 +22,15 @@
 
 
 {
-    "name" : "Mass Editing",
+    "name" : "Merge Records",
     "version" : "1.1",
-    "author" : "Serpent Consulting Services",
+    "author" : "Vauxoo",
     "category" : "Tools",
-    "website" : "http://www.serpentcs.com",
-    "description": """This module provides the functionality to add, update or remove the values of more than one records on the fly at the same time.
-        You can configure merge editing for any OpenERP model. 
-        The video explaining the features is available at http://t.co/wukYMx1A
+    "website" : "www.vauxoo.com",
+    "description": """
+    This module provides the functionality to merge records in any model of Odoo.
+        You can configure merge records for any Odoo model.
         The menu is now Under Settings/Configuration.
-        For more details/customization/feedback contact us on contact@serpentcs.com. 
     """,
     'depends': ['base'],
     'data': [
